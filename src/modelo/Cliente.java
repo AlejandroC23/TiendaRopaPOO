@@ -9,5 +9,11 @@ package modelo;
  * @author Alejandro
  */
 public class Cliente {
-    
+    private int adclIdCliente;
+    private int adclCedula;
+    private String adclNombres;
+    private String adclApellidos;
+    private String adclDireccion;
+    private String adclCorreo;
+    private int adclTelefono;
 }

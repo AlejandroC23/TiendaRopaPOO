@@ -9,5 +9,11 @@ package modelo;
  * @author Alejandro
  */
 public class Producto {
-    
+    private int adclIdProduct;
+    private String adclDescLarga;
+    private String adclDescCorta;
+    private String adclTalla;
+    private String adclMaterial;
+    private String adclColor;
+    private int adclStock;
 }

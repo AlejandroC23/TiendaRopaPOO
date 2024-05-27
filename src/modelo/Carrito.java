@@ -9,5 +9,9 @@ package modelo;
  * @author Alejandro
  */
 public class Carrito {
-    
+    private int adclIdCarrito;
+    private double adclSubtotal;
+    private double adclDescuento;
+    private String adclFormaPago;
+    private String adclResumenCompra;
 }
